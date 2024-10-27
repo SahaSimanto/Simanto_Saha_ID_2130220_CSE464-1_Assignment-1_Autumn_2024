@@ -2,6 +2,6 @@
 Asssignment 1 of course CSE462.
 
 1. Created a simple screen in Android Studio.
-2. Added a Toast button that showa a toast message.
+2. Added a Toast button that shows a toast message.
 3. Initialized the text view to 0.
-4. Count button increases the value of text view by 1.
+4. Added a Count button that increases the value of text view by 1.
